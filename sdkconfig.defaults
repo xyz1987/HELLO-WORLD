@@ -1,0 +1,2 @@
+# Set the target to ESP32-C3
+CONFIG_IDF_TARGET="esp32c3"
