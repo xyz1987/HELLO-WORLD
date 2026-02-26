@@ -1,0 +1,4 @@
+build/
+sdkconfig
+sdkconfig.old
+_codeql_detected_source_root
